@@ -3,8 +3,17 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
 # C extensions
 *.so
+
+# Thumbnails
+._*
 
 # Distribution / packaging
 .Python
@@ -172,3 +181,26 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# PyBuilder
+.pybuilder/
+target/
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
