@@ -1,11 +1,11 @@
 # AI Agent Practice (Paper Summarizer)
 
 ## Todo
-[x] OpenAI API 연동
+- [x] OpenAI API 연동
 
-[x] Pdf 텍스트 추출 -> IEEE에 최적화
+- [x] Pdf 텍스트 추출 -> IEEE에 최적화
 
-[ ] streamlit Web UI 연동
+- [ ] streamlit Web UI 연동
 
 
 ## 1. 논문 텍스트 추출
