@@ -5,7 +5,7 @@
 
 [x] Pdf 텍스트 추출 -> IEEE에 최적화
 
-[] streamlit Web UI 연동
+[ ] streamlit Web UI 연동
 
 
 ## 1. 논문 텍스트 추출
