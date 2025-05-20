@@ -1,0 +1,11 @@
+[project]
+name = "paper-summarize-agent"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dotenv>=0.9.9",
+    "openai>=1.79.0",
+    "pymupdf>=1.25.5",
+]
